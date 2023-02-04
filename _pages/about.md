@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Joseph Jessie S. Oñate"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
