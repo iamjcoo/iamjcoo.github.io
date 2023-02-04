@@ -83,7 +83,7 @@ author:
   name             : "Joseph Jessie S. Oñate"
   avatar           : "jessonate.jpg"
   bio              : "BSCS Program Chairperson/Instructor"
-  location         : "College of Computer Studies<br>Camarines Sur Polytechnic Colleges"
+  location         : #"College of Computer Studies<br>Camarines Sur Polytechnic Colleges"
   employer         : "College of Computer Studies<br>Camarines Sur Polytechnic Colleges"
   pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=mUXzb2cAAAAJ&hl=en"
