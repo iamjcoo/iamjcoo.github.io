@@ -84,10 +84,10 @@ author:
   avatar           : "jessonate.jpg"
   bio              : "BSCS Program Chairperson/Instructor"
   location         : "College of Computer Studies<br>Camarines Sur Polytechnic Colleges"
-  employer         :
+  employer         : "College of Computer Studies<br>Camarines Sur Polytechnic Colleges"
   pubmed           : #""
   googlescholar    : "https://scholar.google.com/citations?user=mUXzb2cAAAAJ&hl=en"
-  email            :
+  email            : "jessonate[at]cspc.edu.ph"
   researchgate     : "https://www.researchgate.net/profile/Joseph-Jessie-Onate"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jessonate"
+  twitter          : "jjessonate"
   vine             :
   weibo            :
   xing             :
