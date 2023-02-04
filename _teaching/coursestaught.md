@@ -1,5 +1,5 @@
 ---
-title: "Courses Taught"
+title: "Undergraduate Courses"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/ugcoursestaught
