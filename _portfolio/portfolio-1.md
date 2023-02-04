@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Establishment of AI Research Center for Community Development"
+excerpt: "AIRCoDe is a research center intended for research studies implementing Artificial Intelligence Technology. The establishment of AIRCoDe is funded by the Department of Science and Technology – Philippine Council for Industry, Energy, and Emerging Technology Research and Development (DOST-PCIEERD) under the Infrastructure Development Program in 2021."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+AIRCoDe is a research center intended for research studies implementing Artificial Intelligence Technology. The establishment of AIRCoDe is funded by the Department of Science and Technology – Philippine Council for Industry, Energy, and Emerging Technology Research and Development (DOST-PCIEERD) under the Infrastructure Development Program in 2021.
+
+Aligned with the research thrust of the Camarines Sur Polytechnic Colleges, it shall promote and explore scholarly works responsive to the needs of the community using Artificial Intelligence.
