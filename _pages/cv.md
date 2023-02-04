@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer Science, Ateneo de Naga University, 2021
+* B.S. in Computer Science, Camarines Sur Polytechnic Colleges, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Instructor I
+  * Camarines Sur Polytechnic Colleges, College of Computer Studies
+  * Computer Science Program
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Science Research Assistant
+  * Camarines Sur Polytechnic Colleges and DOST-PCIEERD
+  * Duties included: eBPLS Module
+
+* Technical Support Staff
+  * Camarines Sur Polytechnic Colleges
+  * Institutional Planning Office
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Artificial Intelligence
+* Computer Vision
+* Remote Sensing
 
 Publications
 ======
@@ -54,6 +52,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
