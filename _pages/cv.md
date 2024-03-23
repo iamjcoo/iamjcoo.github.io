@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Instructor I
+* Assistant Professor IV
   * Camarines Sur Polytechnic Colleges, College of Computer Studies
   * Computer Science Program
 
